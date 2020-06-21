@@ -55,6 +55,10 @@ Grupo Facebook Metal Omega
 <br />
 https://www.facebook.com/groups/metalomega
 <br />
+LiveJournal Metal Omega
+<br />
+https://metalomega.livejournal.com/
+<br />
 Twitch Metal Omega
 <br />
 https://www.twitch.tv/metalomega
