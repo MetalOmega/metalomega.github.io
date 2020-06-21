@@ -17,9 +17,7 @@ Contato:
 metalomega@gmail.com
 <br />
 <br />
-Redes sociais:
-<br />
-Metal Omega na Web:
+Redes sociais - Metal Omega na Web:
 <br />
 Linktree Metal Omega
 <br />
@@ -52,6 +50,7 @@ http://www.facebook.com/metalomega
 Página Facebook Metal Omega
 <br />
 http://www.facebook.com/metalomegaservice
+<br />
 Grupo Facebook Metal Omega
 <br />
 https://www.facebook.com/groups/metalomega
@@ -93,9 +92,12 @@ Mindomo Metal Omega
 https://www.mindomo.com/pt/profile/id/AFmKX
 <br />
 Scrathc Metal Omega
+<br />
 https://scratch.mit.edu/users/MetalOmega/
 <br />
 Pinterest Metal Omega
+<br />
+https://br.pinterest.com/metalomega
 <br />
 Medium Metal Omega
 <br />
